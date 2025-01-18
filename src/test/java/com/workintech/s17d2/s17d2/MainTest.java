@@ -1,4 +1,4 @@
-package com.workintech.s17d2;
+package com.workintech.s17d2.s17d2;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.workintech.s17d2.model.*;
